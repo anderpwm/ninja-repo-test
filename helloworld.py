@@ -7,4 +7,4 @@ def stealth_print(text):
         time.sleep(0.05)
     print()
 
-stealth_print("⚡ Ninja deployment: Hello World! 🚀")
+stealth_print("Ninja deployment: Hello World!")
