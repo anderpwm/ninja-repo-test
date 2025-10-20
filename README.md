@@ -1,2 +1,10 @@
-# ninja-repo-test
-First step on a personal account
+       _____
+      /     \\
+     | () () |
+      \\  ^  /
+       |||||
+       |||||
+       
+🎯 Ninja Coder says: Hello World! 🐍
+🚀 Deploying: Hello World
+💻 Stack: Python, WebDev, Ninja Skills
